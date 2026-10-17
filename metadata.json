@@ -1,0 +1,6 @@
+{
+  "name": "AI Study OS",
+  "description": "Portfolio-grade study productivity dashboard tracking subjects, weekly schedule, study tasks, and learning progress.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
